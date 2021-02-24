@@ -2,41 +2,11 @@
 <html lang="ko">
   <head>
     <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="CSS Animation Steps" />
     <title>CSS Animation Steps</title>
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-      }
-
-      .bulbs {
-        position: fixed;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        width: 128px;
-        height: 128px;
-        margin: auto;
-        background: url(images/bulbs.png) no-repeat 0 0;
-        background-size: 128px 5760px;
-      }
-
-      .bulbs:hover {
-        animation: steps 1s infinite steps(45);
-      }
-
-      @keyframes steps {
-        from {
-          background-position: 0 0;
-        }
-        to {
-          background-position: 0 -5760px;
-        }
-      }
-    </style>
+    <link rel="stylesheet" href="css/css-animation-steps.css" />
   </head>
   <body>
     <i class="bulbs"></i>
