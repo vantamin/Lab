@@ -14,7 +14,7 @@ body {
   width: 128px;
   height: 128px;
   margin: auto;
-  background: url(/docs/images/bulbs.png) no-repeat 0 0;
+  background: url(../images/bulbs.png) no-repeat 0 0;
   background-size: 128px 5760px;
 }
 
