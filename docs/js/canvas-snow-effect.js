@@ -9,7 +9,7 @@
       var width = window.innerWidth; // 화면 너비
       var height = window.innerHeight; // 화면 높이
       var length = Math.floor(Math.random() * Math.sqrt(width * height)); // 갯수
-      var speed = 20; // 속도
+      var fps = 1000 / 24;
       var angle = 0; // 각도
       var snow = [];
 
@@ -59,7 +59,7 @@
       canvas.width = width;
       canvas.height = height;
 
-      setInterval(draw, speed);
+      setInterval(draw, fps);
     }
   }
 

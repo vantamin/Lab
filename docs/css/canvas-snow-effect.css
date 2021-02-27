@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-  background: #6b92b9;
+  background: radial-gradient(ellipse at bottom, #1b2735 0, #090a0f 100%);
 }
 
 canvas {
