@@ -3,4 +3,10 @@
 연구실
 
 - [CSS Animation Steps](https://vantamin.github.io/lab/css-animation-steps.html)
-- [Canvas Snow](https://vantamin.github.io/lab/canvas-snow-effect.html)
+- [Canvas Snow Effect](https://vantamin.github.io/lab/canvas-snow-effect.html)
+- [Game Breakout](https://vantamin.github.io/lab/game-breakout.html)
+
+## 북마크
+
+- Game Breakout
+  - [순수한 자바스크립트를 이용한 2D 벽돌깨기 게임 - 게임 개발 | MDN](https://developer.mozilla.org/ko/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
