@@ -4,7 +4,7 @@
 
 - [CSS Animation Steps](https://vantamin.github.io/lab/css-animation-steps.html)
 - [Canvas Snow Effect](https://vantamin.github.io/lab/canvas-snow-effect.html)
-- [Game Breakout](https://vantamin.github.io/lab/game-breakout.html)
+- [Canvas Breakout Game](https://vantamin.github.io/lab/canvas-breakout-game.html)
 
 ## 북마크
 
